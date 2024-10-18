@@ -153,6 +153,34 @@ a:hover{
     color:rgb(59, 8, 5);
                                                                             
 }
+div.gallery { 
+    border: 1px solid	 #ccc;
+    background-color: #f8c2ea;
+    display: table;
+    margin: 10px;
+    margin-left: 10px;
+    margin-right: 10px;
+}
+
+div.gallery img {
+    width: 100%;
+    height: auto;
+    max-width: 100%;
+}
+
+div.nimi {
+    margin-bottom: 0px;
+    font-size: 18px;
+    font-weight: bold;
+    text-align: center;
+}
+
+div.desc {
+    padding-bottom: 5px;
+    text-align: center;
+    margin-top: 5px;
+    font-size: 16px;
+}
 footer {
     background-color: rgb(72, 67, 72);
     color: white;
