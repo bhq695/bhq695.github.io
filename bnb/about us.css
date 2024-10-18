@@ -153,6 +153,50 @@ a:hover{
     color:rgb(59, 8, 5);
                                                                             
 }
+footer {
+    background-color: rgb(72, 67, 72);
+    color: white;
+    padding: 20px 0; /* Adjust padding as needed */
+    text-align: center;
+    border-top: 1px solid #e7e7e7;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+}
+
+footer p {
+    font-size: 16px;
+    margin: 5px 0;
+}
+
+.footer-section {
+    margin-bottom: 10px;
+    flex: 1 1 200px;
+    min-width: 150px;
+}
+
+.footerinformation img, .footermedia img {
+    width: 30px;
+    height: 30px;
+}
+
+.footerlogo {
+    width: 120px;
+    height: 120px;
+}
+
+.iglogo {
+    width: 40px;
+    height: 40px;
+}
+
+.username {
+    display: inline-block;
+    margin-top: 50px;
+    margin-left: 10px;
+    font-size: 14px;
+    color: #fff;
+}
 .responsive{
     padding:0;
     width:24.99999%;
