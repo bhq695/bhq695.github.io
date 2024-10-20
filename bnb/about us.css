@@ -7,16 +7,16 @@ body {
 h1 {
     background-color: #f8c2ea;
     padding: 0px;
-    margin-top: 0px;
+    margin-top: 20px;
     font-size: 400%;
-    margin-bottom: 0px;
+    margin-bottom: 30px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     color:#ffffff;
 }
 p {
     font-size: 24px;
 }
-.header{
+header{
     background-color: #f8c2ea;
     margin-bottom: 0px;
     padding-bottom: 5px;
@@ -59,17 +59,17 @@ a:hover{
 .active {
     text-decoration: underline;
 }
-.img {
+img {
     display:block;
     width: 200px;
     align-content: center;
     margin:0 auto;
     margin-top: auto;
-    margin-bottom: -40px;
+    margin-bottom: 40px;
 }
 .kuvakahvilasta{
     display:block;
-    width: 250px;
+    width: 200px;
     align-content: center;
     margin-left: auto;
     margin-right: auto;
