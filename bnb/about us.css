@@ -7,9 +7,9 @@ body {
 h1 {
     background-color: #f8c2ea;
     padding: 0px;
-    margin-top: 20px;
+    margin-top: 0px;
     font-size: 400%;
-    margin-bottom: 30px;
+    margin-bottom: 0px;
     text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
     color:#ffffff;
 }
@@ -18,6 +18,8 @@ p {
 }
 .header{
     background-color: #f8c2ea;
+    margin-bottom: 0px;
+    padding-bottom: 5px;
 }
 hr {
     border: none;
@@ -28,10 +30,14 @@ hr {
 nav {
     color: black;
     background-color: #ffe8fb;
-    padding:10px;
-    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
-    border-radius: 8px;
-    margin:0 20px;
+    padding:10px 0;
+    box-shadow: 0 -4px 8px rgba(0, 0, 0, 0.1);
+    border-radius: 4px;
+    margin:0 0px;
+    margin-top: 0px;
+    padding-top: -5px;
+    padding-bottom: 20px;
+    text-align: center;
 }
 .nav{
     font-size: 26px;
